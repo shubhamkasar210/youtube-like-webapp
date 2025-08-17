@@ -1,12 +1,21 @@
-# React + Vite
+YouTube Like webApp (With Live Chat Feature)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✅ Live YouTube search with autocomplete functionality.
 
-Currently, two official plugins are available:
+✅ Built Nested Comments feature.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✅ LIVE CHAT system with anonymous chat feature.
 
-## Expanding the ESLint configuration
+✅ Shimmer UI effect for a polished look.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✅ Infinite scroll for a seamless browsing experience.
+
+✅ Live YouTube video feed using YouTube API.
+
+✅ Advanced data handling with Redux Toolkit.
+
+✅ Optimized API calls through caching for future use.
+
+<img width="1366" height="768" alt="Screenshot-1" src="https://github.com/user-attachments/assets/7f740aaf-a77c-4571-a928-5f396f7b047c" />
+<img width="1366" height="768" alt="Screenshot-2" src="https://github.com/user-attachments/assets/35be8e85-8126-4d7b-9471-62ff0e54eed3" />
+<img width="1366" height="768" alt="Screenshot-3" src="https://github.com/user-attachments/assets/a056958b-4d2e-4f68-a423-999160326873" />
